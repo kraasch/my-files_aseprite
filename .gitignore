@@ -1,0 +1,8 @@
+
+*.png
+*.svg
+*.gif
+
+exp/
+export/
+exports/
